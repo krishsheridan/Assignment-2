@@ -1,0 +1,17 @@
+@startuml
+class Product {
+    __str__()
+    generate_statement()
+    simulate_month()
+    get_input()
+        code
+    name
+    stock_level
+    sale_price
+    manufacture_cost
+    monthly_units
+    total_revenue
+    total_cost
+    __init__()
+}
+@enduml
